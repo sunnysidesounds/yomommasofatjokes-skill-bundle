@@ -9,7 +9,7 @@ public final class YoMommaSoFatJokesSpeechletRequestStreamHandler extends Speech
     private static final Set<String> supportedApplicationIds = new HashSet<String>();
 
     static {
-        supportedApplicationIds.add("amzn1.ask.skill.7ef118b9-43bd-41fd-884a-e1f76854ccee");
+        supportedApplicationIds.add("<your-appid-here>");
     }
 
     public YoMommaSoFatJokesSpeechletRequestStreamHandler() {
