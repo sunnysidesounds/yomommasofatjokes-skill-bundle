@@ -1,0 +1,19 @@
+InitialYoMommaSoFatJokesIntent yo momma
+InitialYoMommaSoFatJokesIntent yo momma so fat
+InitialYoMommaSoFatJokesIntent yo momma is so fat
+InitialYoMommaSoFatJokesIntent your momma so fat
+InitialYoMommaSoFatJokesIntent your momma is so fat
+InitialYoMommaSoFatJokesIntent your mother is so fat
+
+AMAZON.StopIntent no
+AMAZON.StopIntent nope
+AMAZON.StopIntent no thanks
+AMAZON.StopIntent no thank you
+
+AMAZON.HelpIntent help
+AMAZON.HelpIntent help please
+AMAZON.HelpIntent please help
+
+AMAZON.CancelIntent cancel
+AMAZON.CancelIntent cancel please
+AMAZON.CancelIntent please cancel
